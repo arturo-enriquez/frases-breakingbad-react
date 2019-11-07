@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f8259a24-2ceb-45db-ac23-cfaad9a2ee64/deploy-status)](https://app.netlify.com/sites/frases-breakingbad/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
